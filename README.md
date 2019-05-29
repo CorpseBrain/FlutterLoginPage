@@ -1,6 +1,6 @@
-# flutter_app
+# FlutterLoginPage
 
-A new Flutter application.
+A new Flutter application with a login page.
 
 ## Getting Started
 
